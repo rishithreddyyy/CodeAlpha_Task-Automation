@@ -1,0 +1,16 @@
+# Extracted Email Addresses
+# Source File: company_directory.txt
+# Extraction Date: 2026-11-10 12:46:38
+# Total Unique Emails: 10
+--------------------------------------------------
+
+admin@sub.network.org
+alice.smith@techcorp.com
+bob_builder123@domain.org
+charlie.dev+filters@gmail.com
+connor@media-agency.net
+emergency-contact@service247.io
+info@example.com
+sarah.oconnor@agency.io
+sarah_o@media-agency.net
+support@customerservice.co.uk

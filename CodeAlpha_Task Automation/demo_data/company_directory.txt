@@ -1,0 +1,24 @@
+Hello Team,
+
+Please find below the updated contact list for our project contributors:
+- Project Manager: alice.smith@techcorp.com
+- Lead Architect: bob_builder123@domain.org
+- Support: support@customerservice.co.uk (Official helpdesk)
+- General Inquiry: info@example.com
+
+Secondary and external contacts:
+- Charlie: charlie.dev+filters@gmail.com
+- Duplicate entry test: alice.smith@techcorp.com
+- Another duplicate: info@example.com
+- Marketing: Sarah_O'Connor@media-agency.net -> will match valid characters: sarah_o@media-agency.net or sarah.oconnor@agency.io
+
+Please ignore invalid formats such as:
+- user@.com (missing domain name)
+- @missinguser.com (missing username)
+- plainaddress (not an email)
+- user@domain (missing TLD)
+
+For urgent escalation, reach out to emergency-contact@service247.io or admin@sub.network.org.
+
+Best regards,
+Admin

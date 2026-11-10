@@ -1,0 +1,11 @@
+============================================================
+WEBPAGE TITLE SCRAPE RESULT
+============================================================
+Scraped At   : 2026-11-10 12:46:38
+Target URL   : https://en.wikipedia.org/wiki/Python_(programming_language)
+HTTP Status  : 200
+Content-Type : text/html; charset=UTF-8
+------------------------------------------------------------
+PAGE TITLE:
+Python (programming language) - Wikipedia
+============================================================
